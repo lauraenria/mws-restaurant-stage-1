@@ -30,3 +30,16 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 
 
+# Preview
+### *restaurant reviews*
+[!restaurant_reviews](screenshots/restaurant_reviews.jpg)
+
+### *restaurant reviews info*
+[!restaurant_reviews_info](screenshots/restaurant_reviews_info.jpg)
+
+
+ps. 
+
+* don't forget to run the server and be sure to configure the port correctly
+
+* don't forget to use ```shift/ctr + F5``` to reload without the cache
